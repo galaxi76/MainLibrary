@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>터치 </item>
+    <item>화살표</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">현재 컨텐트 다운로드가 불가능합니다. 재시도하시겠습니까?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">컨텐트 다운로드시 문제점</string>
+    <string name="base_activity_problem_with_content_file_option_restart">다운로드 재시작</string>
+    <string name="base_activity_problem_with_content_file_option_retry">재시도</string>
+    <string name="downloader_activity_category_animals">동물</string>
+    <string name="downloader_activity_category_household">가구</string>
+    <string name="downloader_activity_category_musical_instruments">악기</string>
+    <string formatted="false" name="downloader_activity_category_number_title">카테고리 %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">탈것</string>
+    <string name="downloader_activity_category_wild_animals">야생 동물</string>
+    <string name="downloader_activity_category_wild_birds">야생 조류</string>
+    <string name="downloader_activity_connection_error_dialog_desc">접속 에러가 발생했습니다. 인터넷 연결을 체크하거나 다시 시도하세요</string>
+    <string name="downloader_activity_connection_error_dialog_title">접속 에러</string>
+    <string name="downloader_activity_error_option_exit">종료</string>
+    <string name="downloader_activity_error_option_retry">재시도</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">해당 어플리케이션의 컨텐트를 저장하는 동안 문제가 발생했습니다. 외부 스토리지가 마운트되었는지 또는 사용중인지 확인하세요</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">외부 스토리지 사용 불가능</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">내장 및 외장 스토리지내 앱 컨텐트를 저장할 공간이 없습니다. 빈 공간을 더 많이 만든 후 다시 시도하세요</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">공간 부족</string>
+    <string name="downloader_activity_please_wait_message">그림과 사운드를 다운로드하는 동안 잠시만 기다리십시오</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">알려지지 않은 에러가 발생했습니다. 다시 시도하세요</string>
+    <string name="downloader_activity_unknown_error_dialog_title">알려지지 않은 에러</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">해당 어플리케이션을 실행하기 위해서는 대용량 파일을 다운로드해야 합니다. 와이파이 연결을 권장합니다</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">예</string>
+    <string name="downloader_activity_wifi_check_dialog_title">와이파이 연결이 끊겼습니다</string>
+    <string name="file_download_service_notification_download_error">파일 다운로드 중 에러</string>
+    <string name="file_download_service_notification_download_finished">다운로드 완료</string>
+    <string name="file_download_service_notification_downloading_title">컨텐트 다운로드 중…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">다운로드 시작…</string>
+    <string name="file_download_service_notification_temporary_message">다운로드 시작…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">외부 스토리지로 다운로드중</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">내부 스토리지로 다운로드중</string>
+    <string name="main_activity_initializing_progress_dialog_description">잠시만 기다리십시오</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">스피치를 활성화하려면, "설정" 메뉴로 가세요</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch"가 말할 수 있습니다!</string>
+    <string name="settings_activity_checkbox_speech">말하기</string>
+    <string name="settings_activity_combobox_language">언어</string>
+    <string name="settings_activity_radiogroup_close_item_by">아이템 종료 방법:</string>
+    <string name="settings_activity_settings_title">설정</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- this is the application name as it is displayed to the end user . it should be overriden by the lite and full versions libraries -->
+  <string name="app_name"></string>
+
+</resources>

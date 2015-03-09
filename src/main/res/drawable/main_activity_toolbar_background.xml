@@ -1,0 +1,5 @@
+<!--the background for the bottom toolbar , intended for normal screens -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+<!--   <gradient android:startColor="#5c6298" android:endColor="#2b3378" android:angle="270" /> -->
+<solid android:color="#142e70"/>
+</shape>

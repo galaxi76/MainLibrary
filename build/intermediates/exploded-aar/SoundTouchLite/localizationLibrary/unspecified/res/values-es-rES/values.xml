@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-es-rES/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Toque </item>
+        <item>Flecha</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">En este momento la descarga de contenidos no está disponible. ¿Reintentar</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problema con el contenido en descarga</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Reiniciar la descarga</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Reintentar</string>
+    <string name="buy_full_version_button_text">Versión completa sin anuncios
+</string>
+    <string name="check_out_full_version">mira la versión completa
+</string>
+    <string name="downloader_activity_category_animals">Animales</string>
+    <string name="downloader_activity_category_household">En el hogar</string>
+    <string name="downloader_activity_category_musical_instruments">Instrumentos musicales</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Categoría %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Medios de transporte</string>
+    <string name="downloader_activity_category_wild_animals">Animales salvajes</string>
+    <string name="downloader_activity_category_wild_birds">Aves silvestres</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Se detectó un error de conexión. Verifique su conexión a Internet o intente nuevamente</string>
+    <string name="downloader_activity_connection_error_dialog_title">Error de conexión</string>
+    <string name="downloader_activity_error_option_exit">Salir</string>
+    <string name="downloader_activity_error_option_retry">Reintentar</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Hubo un problema mientras se almacenaba el contenido de la aplicación. Verifique que su almacenamiento externo no está montado u
+    ocupado</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Almacenamiento externo no disponible</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">No se encontró espacio para el contenido de la aplicación en el almacenamiento interno ni externo. Libere espacio en disco e
+    intente nuevamente</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">No hay espacio suficiente</string>
+    <string name="downloader_activity_please_wait_message">Espere mientras se descargan las imágenes y los sonidos</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Se produjo un error desconocido. Intente nuevamente</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Error desconocido</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Para que funcione esta aplicación necesita descargar un archivo grande. Se recomienda una conexión WIFI</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Aceptar</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI está desconectado</string>
+    <string name="file_download_service_notification_download_error">Error al descargar archivo</string>
+    <string name="file_download_service_notification_download_finished">Descarga completa</string>
+    <string name="file_download_service_notification_downloading_title">Descargando contenido…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Comenzando la descarga…</string>
+    <string name="file_download_service_notification_temporary_message">Comenzando la descarga…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Descargando a almacenamiento externo</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Descargando a almacenamiento interno</string>
+    <string name="main_activity_initializing_progress_dialog_description">Por favor, espere</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">Para activar la voz, vaya al menú "configuración"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" puede hablar!</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">segundos
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Congela la pantalla durante un mínimo de 4 segundos
+</string>
+    <string name="settings_activity_checkbox_speech">Conversación</string>
+    <string name="settings_activity_combobox_language">Idioma</string>
+    <string name="settings_activity_radiogroup_close_item_by">Cerrar item con:</string>
+    <string name="settings_activity_settings_title">Configuración</string>
+    <string name="settings_activity_share_app"> Compartir
+</string>
+</resources>

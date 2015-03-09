@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="@drawable/main_activity_toolbar_background" android:orientation="horizontal"
+  android:paddingTop="8dp" android:paddingBottom="8dp" android:baselineAligned="false" xmlns:tools="http://schemas.android.com/tools" tools:context=".activities.main_activity.MainActivity">
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_animals">
+    <ImageView android:id="@+id/mainActivity_logo_animals" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_animals" android:layout_gravity="center"
+      android:paddingLeft="14dp" android:paddingRight="17dp" android:scaleType="centerInside" />
+  </FrameLayout>
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_vehicles">
+    <ImageView android:id="@+id/mainActivity_logo_vehicles" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_vehicles" android:layout_gravity="center"
+      android:paddingRight="17dp" android:scaleType="centerInside" />
+  </FrameLayout>
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_wildanimals">
+    <ImageView android:id="@+id/mainActivity_logo_wildanimals" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_wildanimals" android:layout_gravity="center"
+      android:paddingRight="15dp" android:scaleType="centerInside" />
+  </FrameLayout>
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_wildbirds">
+    <ImageView android:id="@+id/mainActivity_logo_wildbirds" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_wildbirds" android:layout_gravity="center"
+      android:paddingRight="7dp" android:scaleType="centerInside" />
+  </FrameLayout>
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_musicalinstruments">
+    <ImageView android:id="@+id/mainActivity_logo_musicalinstruments" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_musicalinstruments" android:layout_gravity="center"
+      android:paddingRight="5dp" android:scaleType="centerInside" />
+  </FrameLayout>
+
+  <FrameLayout android:layout_width="wrap_content" android:layout_height="match_parent"
+    android:layout_weight="1" android:id="@+id/mainActivity_frame_logo_household">
+    <ImageView android:id="@+id/mainActivity_logo_household" android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:src="@drawable/logo_household" android:layout_gravity="center"
+      android:paddingRight="8dp" android:scaleType="centerInside" />
+  </FrameLayout>
+</LinearLayout>
+ 

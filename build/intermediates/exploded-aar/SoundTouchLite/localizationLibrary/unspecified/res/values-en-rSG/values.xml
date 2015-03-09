@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-en-rSG/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>Touch</item>
+    <item>Arrow</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Download of content is currently unavailable. Retry?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problem with downloading content</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Restart download</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Retry</string>
+    <string name="downloader_activity_category_animals">Animals</string>
+    <string name="downloader_activity_category_household">Household</string>
+    <string name="downloader_activity_category_musical_instruments">Musical Instruments</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Category %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Vehicles</string>
+    <string name="downloader_activity_category_wild_animals">Wild animals</string>
+    <string name="downloader_activity_category_wild_birds">Wild birds</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Connection error detected. Please check your internet connection or try again</string>
+    <string name="downloader_activity_connection_error_dialog_title">Connection error</string>
+    <string name="downloader_activity_error_option_exit">Exit</string>
+    <string name="downloader_activity_error_option_retry">Retry</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">There was a problem while storing the application\'s content. Please verify that your external
+    storage is not mounted or busy</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">External storage unavailable</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">No space found for app content on both internal and external storages.
+    Please free more space and try again</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Not enough space</string>
+    <string name="downloader_activity_please_wait_message">Please wait while downloading pictures &amp; sounds</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">An unknown error occured. Please try again</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Unknown error</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">In order for this application to run, it needs to download a large file. WIFI connection is recommended</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI is disconnected</string>
+    <string name="file_download_service_notification_download_error">Error while downloading file</string>
+    <string name="file_download_service_notification_download_finished">Download finished</string>
+    <string name="file_download_service_notification_downloading_title">Downloading content…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Starting download …</string>
+    <string name="file_download_service_notification_temporary_message">Starting download …</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Downloading to external storage</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Downloading to internal storage</string>
+    <string name="main_activity_initializing_progress_dialog_description">Initializing for the first time</string>
+    <string name="main_activity_initializing_progress_dialog_title">Please wait</string>
+    <string name="main_activity_whats_new_dialog_desc">To enable speech, go to the "settings" menu</string>
+    <string name="main_activity_whats_new_dialog_title">SoundTouch can speak!</string>
+    <string name="settings_activity_checkbox_speech">Speech</string>
+    <string name="settings_activity_combobox_language">Language</string>
+    <string name="settings_activity_radiogroup_close_item_by">Close item by:</string>
+    <string name="settings_activity_settings_title">Settings</string>
+</resources>

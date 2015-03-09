@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/promotion_dialog_rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10" >
+
+    <ListView
+        android:id="@+id/promotion_dialog_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="9" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="5" >
+
+        <FrameLayout
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/promotion_dialog_okButton"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/promotion_dialog_button_bottom_margin"
+            android:layout_weight="3"
+            android:text="OK" />
+    </LinearLayout>
+
+</LinearLayout>

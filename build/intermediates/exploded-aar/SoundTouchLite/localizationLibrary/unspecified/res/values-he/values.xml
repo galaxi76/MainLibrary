@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-he/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>מגע</item>
+        <item>חץ</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">התכנים לא זמינים להורדה כרגע. לנסות שוב?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">תקלה בהורדת התכנים</string>
+    <string name="base_activity_problem_with_content_file_option_restart">להתחיל מחדש</string>
+    <string name="base_activity_problem_with_content_file_option_retry">לנסות שוב</string>
+    <string name="buy_full_version_button_text">גרסה מלאה ללא פרסומות
+</string>
+    <string name="check_out_full_version">הצצה לגרסה המלאה
+</string>
+    <string name="downloader_activity_category_animals">חיות</string>
+    <string name="downloader_activity_category_household">קולות בבית</string>
+    <string name="downloader_activity_category_musical_instruments">כלי נגינה</string>
+    <string formatted="false" name="downloader_activity_category_number_title">קטגוריה %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">כלי תחבורה</string>
+    <string name="downloader_activity_category_wild_animals">חיות בר</string>
+    <string name="downloader_activity_category_wild_birds">עופות בר</string>
+    <string name="downloader_activity_connection_error_dialog_desc">התרחשה תקלת רשת. אנא וודא/י שהינך מחובר/ת לאינטרנט</string>
+    <string name="downloader_activity_connection_error_dialog_title">תקלת רשת</string>
+    <string name="downloader_activity_error_option_exit">יציאה</string>
+    <string name="downloader_activity_error_option_retry">לנסות שוב</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Mount התרחשה תקלה בזמן שמירת התכנים באחסון החיצוני. אנא וודא/י שהאחסון פנוי ולא במצב </string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">אחסון חיצוני לא זמין</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">לא נמצא מקום מספיק לתכנים. אנא פנה/י מקום ונסה/י שוב</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">אין מקום</string>
+    <string name="downloader_activity_please_wait_message">התמונות והצלילים בהורדה, אנא המתן/ני</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">התרחשה תקלה, אנא נסה/י שוב</string>
+    <string name="downloader_activity_unknown_error_dialog_title">תקלה</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">על מנת להתחיל לעבוד, האפליקציה זקוקה להוריד קובץ גדול מהאינטרנט. מומלץ להתחבר לרשת אלחוטית</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">סגור</string>
+    <string name="downloader_activity_wifi_check_dialog_title">מנותק מרשת אלחוטית</string>
+    <string name="file_download_service_notification_download_error">תקלה בזמן הורדת התכנים</string>
+    <string name="file_download_service_notification_download_finished">ההורדה הסתיימה</string>
+    <string name="file_download_service_notification_downloading_title">מוריד תכנים…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">מתחיל בהורדה …</string>
+    <string name="file_download_service_notification_temporary_message">מתחיל בהורדה …</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">מוריד לאחסון החיצוני</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">מוריד לאחסון הפנימי</string>
+    <string name="full_version_only">בגירסה המלאה בלבד</string>
+    <string name="main_activity_initializing_progress_dialog_description">האפליקציה נטענת בפעם הראשונה</string>
+    <string name="main_activity_initializing_progress_dialog_title">אנא המתן/י</string>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">לא להחמיץ!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">"בכדי להפעיל את הדיבוב יש לגשת לתפריט "הגדרות</string>
+    <string name="main_activity_whats_new_dialog_title">!מדברת בעברית SoundTouch</string>
+    <string name="settings_activity_checkbox_label">טקסט</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">נעילת המסך למינימום של 4 שניות
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">שניות
+</string>
+    <string name="settings_activity_checkbox_orientation">היפוך מסך</string>
+    <string name="settings_activity_checkbox_speech">דיבוב</string>
+    <string name="settings_activity_combobox_items_amount"> כמות הפריטים
+</string>
+    <string name="settings_activity_combobox_language">שפה</string>
+    <string name="settings_activity_hide_items_checkbox">
+הסתרת נחשים</string>
+    <string name="settings_activity_radiogroup_close_item_by">פריט ייסגר ע"י:</string>
+    <string name="settings_activity_settings_title">הגדרות</string>
+    <string name="settings_activity_share_app"> שיתוף
+</string>
+</resources>

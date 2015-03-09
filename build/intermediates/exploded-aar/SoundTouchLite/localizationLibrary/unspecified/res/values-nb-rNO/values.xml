@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-nb-rNO/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>Berøring</item>
+    <item>Pil</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Nedlasting av innhold er utilgjengelig for øyeblikket. Prøve på nytt?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problemer med nedlasting av innhold</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Start nedlasting på nytt</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Prøv på nytt</string>
+    <string name="downloader_activity_category_animals">Dyr</string>
+    <string name="downloader_activity_category_household">Husholdning</string>
+    <string name="downloader_activity_category_musical_instruments">Musikkinstrumenter</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Kategori %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Transport</string>
+    <string name="downloader_activity_category_wild_animals">Ville dyr</string>
+    <string name="downloader_activity_category_wild_birds">Ville fugler</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Tilkoblingsfeil oppdaget. Kontroller Internett-tilkoblingen din og prøv på nytt</string>
+    <string name="downloader_activity_connection_error_dialog_title">Tilkoblingsfeil</string>
+    <string name="downloader_activity_error_option_exit">Avslutt</string>
+    <string name="downloader_activity_error_option_retry">Prøv på nytt</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Det oppstod et problem under lagring av denne applikasjonens innhold. Verifiser at den eksterne lagringsplassen din ikke er
+    montert eller opptatt</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Ekstern lagringsplass er utilgjengelig</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Det ble ikke funnet plass til appens innhold på verken intern eller ekstern lagringsplass. Frigjør mer plass og prøv på nytt
+  </string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Ikke nok plass</string>
+    <string name="downloader_activity_please_wait_message">Vent mens bilder og lyder lastes ned</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">En ukjent feil har oppstått. Prøv på nytt</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Ukjent feil</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">For at du skal kunne kjøre denne applikasjonen må den laste ned en større fil. WIFI-tilkobling er anbefalt</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI er koblet fra</string>
+    <string name="file_download_service_notification_download_error">Feil under nedlasting av filen</string>
+    <string name="file_download_service_notification_download_finished">Nedlasting fullført</string>
+    <string name="file_download_service_notification_downloading_title">Laster ned innhold…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Starter nedlasting…</string>
+    <string name="file_download_service_notification_temporary_message">Starter nedlasting…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Last ned til ekstern lagringsplass</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Last ned til intern lagringsplass</string>
+    <string name="main_activity_initializing_progress_dialog_description">Vent</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">Gå til menyen "Innstillinger" for å aktivere tale</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" kan snakke!</string>
+    <string name="settings_activity_checkbox_speech">Tale</string>
+    <string name="settings_activity_combobox_language">Språk</string>
+    <string name="settings_activity_radiogroup_close_item_by">Lukk enhet med:</string>
+    <string name="settings_activity_settings_title">Innstillinger</string>
+</resources>

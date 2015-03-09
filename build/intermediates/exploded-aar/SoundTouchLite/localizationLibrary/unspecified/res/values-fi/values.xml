@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Koskettamalla</item>
+        <item>Nuolella</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Sisällön lataaminen ei ole tällä hetkellä käytettävissä. Uusi yritys?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Ongelma sisällön latauksessa</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Aloita lataus uudelleen</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Uusi yritys</string>
+    <string name="buy_full_version_button_text">Täysi versio ilman mainoksia
+</string>
+    <string name="check_out_full_version">Katso täysi versio
+</string>
+    <string name="downloader_activity_category_animals">Eläimet</string>
+    <string name="downloader_activity_category_household">Kotitalous</string>
+    <string name="downloader_activity_category_musical_instruments">Musiikki-instrumentit</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Luokka %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Kuljetus</string>
+    <string name="downloader_activity_category_wild_animals">Villieläimet</string>
+    <string name="downloader_activity_category_wild_birds">Villit linnut</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Yhteysvirhe on havaittu. Tarkista yhteytesi internettiin ja yritä uudestaan</string>
+    <string name="downloader_activity_connection_error_dialog_title">Yhteysvirhe</string>
+    <string name="downloader_activity_error_option_exit">Poistuminen</string>
+    <string name="downloader_activity_error_option_retry">Uusi yritys</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Ongelma ilmaantui sovelluksen sisällön tallentamisvaiheessa. Tarkista onko ulkoinen muisti yhdistetty tai varattu</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Ulkoinen muisti ei ole käytettävissä</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Tilaa ei löytynyt sovelluksen sisällön tallentamiseen sekä sisäisestä että ulkoisesta muistista. Vapauta enemmän muistitilaa ja
+    yritä uudelleen</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Ei ole tarpeeksi tilaa</string>
+    <string name="downloader_activity_please_wait_message">Odota, kuvia ja ääniä ladataan</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Tuntematon virhe tapahtui. Yritä uudelleen</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Tuntematon virhe</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Jotta tämä sovellus toimisi, täytyy ladata suuri tiedosto. WIFI yhteyttä suositellaan</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Selvä</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI ei ole yhdistetty</string>
+    <string name="file_download_service_notification_download_error">Virhe tapahtui tiedoston ladattaessa</string>
+    <string name="file_download_service_notification_download_finished">Lataaminen päättynyt</string>
+    <string name="file_download_service_notification_downloading_title">Sisällön lataaminen …</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Latauksen aloittaminen …</string>
+    <string name="file_download_service_notification_temporary_message">Latauksen aloittaminen …</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Ladatus ulkoiseen muistiin</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Ladatus sisäiseen muistiin</string>
+    <string name="full_version_only">Ainoastaan täysversiossa</string>
+    <string name="main_activity_initializing_progress_dialog_description">Ole hyvä ja odota</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">Älä missaa!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">Jotta puhe mahdollistuisi, valitse "Asetus"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" osaa puhua!</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">sekunniksi
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Lukitsee kuvan vähintään 4 sekunniksi
+</string>
+    <string name="settings_activity_checkbox_orientation">Kääntele näyttö</string>
+    <string name="settings_activity_checkbox_speech">Puhe</string>
+    <string name="settings_activity_combobox_items_amount">  Kohteiden määrä
+</string>
+    <string name="settings_activity_combobox_language">Kieli</string>
+    <string name="settings_activity_hide_items_checkbox">
+Piilota käärmeet</string>
+    <string name="settings_activity_radiogroup_close_item_by">Sulje kohde:</string>
+    <string name="settings_activity_settings_title">Asetus</string>
+    <string name="settings_activity_share_app"> Jaa
+</string>
+</resources>

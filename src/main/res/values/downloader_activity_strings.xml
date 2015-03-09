@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- download progress format -->
+  <string name="downloader_activity_progress_format" formatted="false">%d%%
+  </string>
+
+  <!-- download progress format in the notification -->
+  <string name="file_download_service_notification_progress_format"
+    formatted="false">%d%%</string>
+
+  <string name="app_license_key"></string>
+
+  <string name="merged_file_size"></string>
+  <string name="merged_file_crc"></string>
+</resources>

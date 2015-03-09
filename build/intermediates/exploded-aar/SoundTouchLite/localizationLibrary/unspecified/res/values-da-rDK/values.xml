@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-da-rDK/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Røre</item>
+        <item>Pil</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Download af indholdet er ikke tilgængelig i øjeblikket. Prøv igjen?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problem med at downloade indhold</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Start download igjen</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Prøv igjen</string>
+    <string name="buy_full_version_button_text">Komplet udgave uden reklamer
+</string>
+    <string name="check_out_full_version">Se den komplette udgave
+</string>
+    <string name="downloader_activity_category_animals">Dyr</string>
+    <string name="downloader_activity_category_household">Husholdning</string>
+    <string name="downloader_activity_category_musical_instruments">Musikinstrumenter</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Kategori %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Transport</string>
+    <string name="downloader_activity_category_wild_animals">Vilde dyr</string>
+    <string name="downloader_activity_category_wild_birds">Vilde fugle</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Der blev påvist en forbindelsesfejl. Tjek din internetforbindelse, eller prøv igjen</string>
+    <string name="downloader_activity_connection_error_dialog_title">Forbindelsesfejl</string>
+    <string name="downloader_activity_error_option_exit">Afslut</string>
+    <string name="downloader_activity_error_option_retry">Prøv igjen</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Der opstod et problem under lagring af programmets indhold. Bekræft, at din eksterne hukommelse ikke er opstillet eller optaget</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Ekstern hukommelse er utilgængelig</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Der var ikke plads til app-indholdet i både den interne og den eksterne hukommelse. Frigør mere plads, og prøv igen</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Ikke nok plads</string>
+    <string name="downloader_activity_please_wait_message">Vent venligst under download af billeder og lyde</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Der opstod en ukendt fejl. Prøv igjen</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Ukendt fejl</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">For at dette program kan køre, er det nødt til at downloade en stor fil. Der anbefales en WIFI-forbindelse</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI er frakoblet</string>
+    <string name="file_download_service_notification_download_error">Fejl under download af fil</string>
+    <string name="file_download_service_notification_download_finished">Download afsluttet</string>
+    <string name="file_download_service_notification_downloading_title">Downloader indhold…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Starter download…</string>
+    <string name="file_download_service_notification_temporary_message">Starter download…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Downloader til ekstern hukommelse</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Downloader til intern hukommelse</string>
+    <string name="full_version_only">Kun fuld udgave</string>
+    <string name="main_activity_initializing_progress_dialog_description">Vent venligst</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">For at aktivere tale skal du gå til menuen "indstillinger"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" kan ikke tale!</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">sekunder
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Låser billedet i mindst 4 sekunder
+</string>
+    <string name="settings_activity_checkbox_speech">Tale</string>
+    <string name="settings_activity_combobox_items_amount">  Antal emner
+</string>
+    <string name="settings_activity_combobox_language">Sprog</string>
+    <string name="settings_activity_radiogroup_close_item_by">Luk punkt ved at:</string>
+    <string name="settings_activity_settings_title">Indstillinger</string>
+    <string name="settings_activity_share_app"> Del
+</string>
+</resources>

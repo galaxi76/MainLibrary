@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>لمس</item>
+        <item>سهم</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">تحميل المحتوى غير متاح حاليًا. هل ترغب بإعادة المحاولة؟</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">مشكلة في محتوى التحميل</string>
+    <string name="base_activity_problem_with_content_file_option_restart">بدء التحميل من جديد</string>
+    <string name="base_activity_problem_with_content_file_option_retry">إعادة المحاولة</string>
+    <string name="buy_full_version_button_text">نسخة كاملة بدون إعلانات دعائية
+</string>
+    <string name="check_out_full_version">لمحة عن النص الكامل</string>
+    <string name="downloader_activity_category_animals">حيوانات</string>
+    <string name="downloader_activity_category_household">منزلية</string>
+    <string name="downloader_activity_category_musical_instruments">آلات موسيقية</string>
+    <string formatted="false" name="downloader_activity_category_number_title">الفئة %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">النقل</string>
+    <string name="downloader_activity_category_wild_animals">حيوانات مفترسة</string>
+    <string name="downloader_activity_category_wild_birds">طيور برية</string>
+    <string name="downloader_activity_connection_error_dialog_desc">تم الكشف عن خطأ في الاتصال. يرجى التحقق من الاتصال بالانترنت والمحاولة مرة أخرى</string>
+    <string name="downloader_activity_connection_error_dialog_title">خطأ في الاتصال</string>
+    <string name="downloader_activity_error_option_exit">الخروج</string>
+    <string name="downloader_activity_error_option_retry">إعادة المحاولة</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">ظهرت مشكلة خلال تخزين التطبيق/محتوى التطبيق. يرجى التحقق من احتمال عدم تركيب أداة التخزين الخارجي أو أن أداة التخزين الخارجي مشغولة
+</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">التخزين الخارجي غير متوفر</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">تعذر العثور على متاحة كافية لمحتوى التطبيق في التخزين الداخلي والخارجي. يرجى تفريغ مساحة إضافية والمحاولة مرة أخرى</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">لا يوجد مساحة كافية</string>
+    <string name="downloader_activity_please_wait_message">فضلا، يرجى الانتظار بينما يجري تنزيل الصور وملفات الصوت</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">ظهر خطأ غير معروف. يرجى المحاولة مرة أخرى</string>
+    <string name="downloader_activity_unknown_error_dialog_title">خطأ غير معروف</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">يلزم تحميل ملف كبير الحجم لتشغيل هذا التطبيق. يوصى بالاتصال بخدمة WIFI</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">موافق</string>
+    <string name="downloader_activity_wifi_check_dialog_title">غير متصل بخدمة WIFI</string>
+    <string name="file_download_service_notification_download_error">ظهر خطأ خلال تحميل الملف</string>
+    <string name="file_download_service_notification_download_finished">اكتمل التحميل</string>
+    <string name="file_download_service_notification_downloading_title">جار تحميل المحتوى…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">جار بدء التحميل …</string>
+    <string name="file_download_service_notification_temporary_message">جار بدء التحميل …</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">التحميل إلى التخزين الخارجي</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">التحميل إلى التخزين الداخلي</string>
+    <string name="main_activity_initializing_progress_dialog_description">يرجى الانتظار</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">لا تفوت!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">لتمكين الحديث، اذهب إلى قائمة "الإعدادات"</string>
+    <string name="main_activity_whats_new_dialog_title">"صوت لمس" يستطيع الكلام!</string>
+    <string name="settings_activity_checkbox_label">نص</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">ثواني
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">قفل الصورة لمدة 4 ثواني على الأقل
+</string>
+    <string name="settings_activity_checkbox_lock_screen_title">قفل الصورة </string>
+    <string name="settings_activity_checkbox_orientation">عكس الشاشة</string>
+    <string name="settings_activity_checkbox_speech">خطاب</string>
+    <string name="settings_activity_combobox_items_amount">  عدد العناصر 
+</string>
+    <string name="settings_activity_combobox_language">لغة</string>
+    <string name="settings_activity_hide_items_checkbox">
+ إخفاء الثعابين</string>
+    <string name="settings_activity_radiogroup_close_item_by">إغلاق البند عند:</string>
+    <string name="settings_activity_settings_title">الإعدادات</string>
+    <string name="settings_activity_share_app"> مشاركة
+</string>
+</resources>

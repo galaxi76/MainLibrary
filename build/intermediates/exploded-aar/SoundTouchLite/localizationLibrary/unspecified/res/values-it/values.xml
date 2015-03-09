@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Tocco</item>
+        <item>Freccia</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Il download di contenuti non è attualmente disponibile. Vuoi riprovare?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problema durante il download di contenuti</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Riavviare il download</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Riprovare</string>
+    <string name="buy_full_version_button_text">Versione integrale senza pubblicità
+</string>
+    <string name="check_out_full_version">controlla la versione integrale
+</string>
+    <string name="downloader_activity_category_animals">Animali</string>
+    <string name="downloader_activity_category_household">Ambiente domestico</string>
+    <string name="downloader_activity_category_musical_instruments">Strumenti musicali</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Categoria %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Veicoli</string>
+    <string name="downloader_activity_category_wild_animals">Animali selvatici</string>
+    <string name="downloader_activity_category_wild_birds">Uccelli selvatici</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Errore di connessione rilevato. Controlla la tua connessione internet o riprova</string>
+    <string name="downloader_activity_connection_error_dialog_title">Errore di connessione</string>
+    <string name="downloader_activity_error_option_exit">Uscita</string>
+    <string name="downloader_activity_error_option_retry">Riprovare</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">C\'è stato un problema durante la memorizzazione dei contenuti dell\'applicazione. Si prega di verificare che la tua memoria
+    esterna non è montata o occupata
+</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Memoria esterna non disponibile</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Nessuno spazio trovato per i contenuti dell\'app nella memoria interna ed esterna. Si prega di liberare più spazio e riprovare
+</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Spazio insufficiente</string>
+    <string name="downloader_activity_please_wait_message">Attendere. Download di immagini e suoni in corso</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Si è verificato un errore sconosciuto. Si prega di riprovare</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Errore sconosciuto</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Perché questa applicazione possa funzionare, deve scaricare un file di grandi dimensioni. Si raccomanda la connessione WIFI
+</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">Il WIFI è disconnesso</string>
+    <string name="file_download_service_notification_download_error">Errore durante il download del file</string>
+    <string name="file_download_service_notification_download_finished">Download finito</string>
+    <string name="file_download_service_notification_downloading_title">Download contenuti in corso…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Avvio download…</string>
+    <string name="file_download_service_notification_temporary_message">Avvio download…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Download nella memoria esterna in corso</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Download nella memoria interna in corso</string>
+    <string name="full_version_only">Solo per la versione completa</string>
+    <string name="main_activity_initializing_progress_dialog_description">Attendere prego</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">Da non mancare!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">Per attivare la parola, andare al menu "Impostazioni"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" parla!</string>
+    <string name="settings_activity_checkbox_label">Testo</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">secondi
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Blocca l\'immagine per un minimo di 4 secondi
+</string>
+    <string name="settings_activity_checkbox_orientation">Schermo Invert</string>
+    <string name="settings_activity_checkbox_speech">Parola</string>
+    <string name="settings_activity_combobox_items_amount"> Quantità di oggetti
+</string>
+    <string name="settings_activity_combobox_language">Lingua</string>
+    <string name="settings_activity_hide_items_checkbox">
+Nascondi serpenti</string>
+    <string name="settings_activity_radiogroup_close_item_by">Chiudi con:</string>
+    <string name="settings_activity_settings_title">Impostazioni</string>
+    <string name="settings_activity_share_app"> Condividi
+</string>
+</resources>

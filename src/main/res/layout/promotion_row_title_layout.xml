@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="8dp"
+    android:orientation="horizontal" >
+
+    <FrameLayout
+        android:id="@+id/promotion_row_image_container"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/promotion_dialog_row_title_icon_margin_top_bottom"
+        android:layout_marginLeft="@dimen/promotion_dialog_row_title_icon_margin_top_bottom"
+        android:layout_marginTop="@dimen/promotion_dialog_row_title_icon_margin_top_bottom"
+        android:layout_weight="1.9" >
+
+        <ImageView
+            android:id="@+id/promotion_row_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/promotion_dialog_icon_5" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/promotion_dialog_row_title_icon_margin_top_bottom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="@dimen/promotion_dialog_row_title_icon_margin_top_bottom"
+        android:layout_weight="6"
+        android:orientation="vertical" >
+
+        <com.soundtouch.main_library.TextViewOneLine
+            android:id="@+id/promotion_row_view_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:paddingRight="3dp"
+            android:paddingTop="4dp"
+            android:singleLine="true"
+            android:text="ANIMALS Video Touch "
+            android:textSize="@dimen/promotion_dialog_row_title_max_text_size"
+            android:textStyle="bold" />
+
+        <com.soundtouch.main_library.TextViewOneLine
+            android:id="@+id/promotion_row_view_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="is out!"
+            android:textSize="@dimen/promotion_dialog_row_title_max_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

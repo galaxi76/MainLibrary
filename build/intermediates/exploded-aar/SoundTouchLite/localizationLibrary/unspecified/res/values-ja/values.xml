@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>タッチ</item>
+        <item>矢印</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">コンテンツのダウンロードが現在利用できません。 再試行しますか？</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">ダウンロードコンテンツに問題</string>
+    <string name="base_activity_problem_with_content_file_option_restart">再起動ダウンロード</string>
+    <string name="base_activity_problem_with_content_file_option_retry">再試行</string>
+    <string name="buy_full_version_button_text">広告なしの フルバージョン
+</string>
+    <string name="check_out_full_version">フルバージョンをお試しください
+</string>
+    <string name="downloader_activity_category_animals">動物</string>
+    <string name="downloader_activity_category_household">家具</string>
+    <string name="downloader_activity_category_musical_instruments">楽器</string>
+    <string formatted="false" name="downloader_activity_category_number_title">カテゴリ %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">乗り物</string>
+    <string name="downloader_activity_category_wild_animals">野生動物</string>
+    <string name="downloader_activity_category_wild_birds">野鳥</string>
+    <string name="downloader_activity_connection_error_dialog_desc">接続エラーが検知されました。インターネット接続の確認または再度試しください</string>
+    <string name="downloader_activity_connection_error_dialog_title">接続エラー</string>
+    <string name="downloader_activity_error_option_exit">閉じる</string>
+    <string name="downloader_activity_error_option_retry">再試行</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">アプリケーションの内容を保存する際問題が発生しました。あなたの外部ストレージが設定または使用中であるか検証してください</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">外部ストレージが利用不可能です</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">内部および外部ストレージ両方にアプリケーションコンテンツ用のスペースが見つかりませんでした。利用できるスペースを作って再度試してください</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">十分なスペースがありません</string>
+    <string name="downloader_activity_please_wait_message">画像とサウンドのダウンロード中は、少しお待ちください</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">原因不明のエラーが発生しました。再度試しください</string>
+    <string name="downloader_activity_unknown_error_dialog_title">原因不明のエラー</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">このアプリケーションを稼働するには大量ファイルをダウンロードする必要があります。ＷＩＦＩ接続をお薦め致します</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">ＷＩＦＩが未接続です</string>
+    <string name="file_download_service_notification_download_error">ファイルのダウンロード中のエラー</string>
+    <string name="file_download_service_notification_download_finished">ダウンロードが完了しました</string>
+    <string name="file_download_service_notification_downloading_title">ダウンロードコンテンツ…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">ダウンロード開始…</string>
+    <string name="file_download_service_notification_temporary_message">ダウンロード開始…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">外部ストレージにダウンロードしています</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">内部ストレージにダウンロードしています</string>
+    <string name="full_version_only">フルバージョンでだけ使えます</string>
+    <string name="main_activity_initializing_progress_dialog_description">しばらくお待ちください</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">スピーチを可能にするには"設定"メニューにします</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" は話せます！</string>
+    <string name="settings_activity_checkbox_label">テキスト</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">秒
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">最短４秒間画像が静止
+</string>
+    <string name="settings_activity_checkbox_orientation">画面を反転</string>
+    <string name="settings_activity_checkbox_speech">スピーチ</string>
+    <string name="settings_activity_combobox_items_amount"> アイテムの量
+</string>
+    <string name="settings_activity_combobox_language">言語</string>
+    <string name="settings_activity_hide_items_checkbox">
+ヘビを隠す</string>
+    <string name="settings_activity_radiogroup_close_item_by">アイテムを選ぶ方法:</string>
+    <string name="settings_activity_settings_title">設定</string>
+    <string name="settings_activity_share_app"> シェア
+</string>
+</resources>

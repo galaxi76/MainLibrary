@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="main_screen" >
+
+    <PreferenceCategory
+        android:key="settings_activity_first_category"
+        android:title="@string/settings_activity_settings_title" >
+        <CheckBoxPreference
+            android:defaultValue="@bool/settings_activity_speech_checkbox_default_value"
+            android:key="@string/settings_activity_speech_checkbox_pref"
+            android:title="@string/settings_activity_checkbox_speech" />
+        <CheckBoxPreference
+            android:defaultValue="@bool/settings_activity_label_checkbox_default_value"
+            android:enabled="true"
+            android:key="@string/settings_activity_label_checkbox_pref"
+            android:title="@string/settings_activity_checkbox_label" />
+
+        <ListPreference
+            android:defaultValue="@string/settings_activity_language_list_default_value"
+            android:key="@string/settings_activity_language_list_pref"
+            android:summary="DEFAULT LANGUAGE VALUE"
+            android:title="@string/settings_activity_combobox_language" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/settings_activity_speech_only_checkbox_default_value"
+            android:enabled="true"
+            android:key="@string/settings_activity_speech_only_checkbox_pref"
+            android:title="@string/settings_activity_speech_only" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="settings_activity_second_category" >
+        <ListPreference
+            android:defaultValue="@string/settings_activity_auto_pilot_list_default_value"
+            android:entries="@array/settings_activity_auto_pilot_list"
+            android:entryValues="@array/settings_activity_auto_pilot_list_values"
+            android:key="@string/settings_activity_auto_pilot_list_pref"
+            android:title="@string/settings_activity_auto_pilot_list_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/settings_activity_orientation_checkbox_default_value"
+            android:enabled="true"
+            android:key="@string/settings_activity_oreintation_checkbox_pref"
+            android:title="@string/settings_activity_checkbox_orientation" />
+
+        <ListPreference
+            android:defaultValue="@string/settings_activity_close_item_by_default_value"
+            android:entries="@array/settings_activity_radiogroup_close_item_by_list"
+            android:entryValues="@array/settings_activity_close_item_by_list_values"
+            android:key="@string/settings_activity_close_item_by_pref"
+            android:title="@string/settings_activity_radiogroup_close_item_by" />
+        <ListPreference
+            android:defaultValue="@string/settings_activity_lock_screen_list_default_value"
+            android:entries="@array/settings_activity_lockscreen_list_values"
+            android:entryValues="@array/settings_activity_lockscreen_list_values"
+            android:key="@string/settings_activity_lock_screen_checkbox_pref"
+            android:title="@string/settings_activity_checkbox_lock_screen_title" />
+        <!-- android:summary="@string/settings_activity_checkbox_lock_screen_summary" -->
+        <ListPreference
+            android:defaultValue="@string/settings_activity_items_amount_list_default_value"
+            android:entries="@array/settings_activity_items_amount_list_values"
+            android:entryValues="@array/settings_activity_items_amount_list_values"
+            android:key="@string/settings_activity_items_amount_list_pref"
+            android:summary="@string/settings_activity_items_amount_list_default_value"
+            android:title="@string/settings_activity_combobox_items_amount" />
+
+        <CheckBoxPreference
+            android:defaultValue="@string/settings_activity_hide_items_checkbox"
+            android:key="@string/settings_activity_hide_items_checkbox_pref"
+            android:title="@string/settings_activity_hide_items_checkbox" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="settings_activity_sixth_category" >
+        <Preference
+            android:key="@string/settings_activity_check_button_pref"
+            android:title="@string/settings_actvitiy_check_videotouch" >
+        </Preference>
+        <Preference
+            android:key="@string/settings_activity_check_soundtouch_button_pref"
+            android:title="@string/settings_actvitiy_check_soundtouch" >
+        </Preference>
+        <Preference
+            android:key="@string/settings_activity_exit_button_pref"
+            android:title="@string/settings_activity_exit_app" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

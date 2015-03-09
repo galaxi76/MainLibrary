@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Касание</item>
+        <item>Возврат</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">В настоящий момент содержимое недоступно для загрузки. Повторить попытку?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Сбой при загрузке содержимого</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Начать загрузку сначала</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Повторить попытку</string>
+    <string name="buy_full_version_button_text">Полная версия без рекламы
+</string>
+    <string name="check_out_full_version">Взгляните на полную версию
+</string>
+    <string name="downloader_activity_category_animals">Животные</string>
+    <string name="downloader_activity_category_household">быт</string>
+    <string name="downloader_activity_category_musical_instruments">музыкальные инструменты</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Категория %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">транспорт</string>
+    <string name="downloader_activity_category_wild_animals">дикие животные</string>
+    <string name="downloader_activity_category_wild_birds">дикие птицы</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Обнаружена ошибка подключения. Проверьте подключение к Интернету или повторите попытку</string>
+    <string name="downloader_activity_connection_error_dialog_title">Ошибка подключения</string>
+    <string name="downloader_activity_error_option_exit">Выйти</string>
+    <string name="downloader_activity_error_option_retry">Повторить попытку</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Сбой при попытке сохранить содержимое приложения. Убедитесь, что внешнее запоминающее устройство подключено и не занято другим
+    процессом</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Внешнее запоминающее устройство недоступно</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">На внешнем и внутреннем запоминающем устройстве нет места для содержимого приложения. Освободите место и повторите попытку
+</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Мало места</string>
+    <string name="downloader_activity_please_wait_message">Подождите, пока загружаются изображения и звуки</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Произошла неизвестная ошибка. Повторите попытку</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Неизвестная ошибка</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Чтобы запустить это приложение, необходимо загрузить большой файл. Рекомендуется подключение к сети WIFI</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">Нет доступа к сети WIFI </string>
+    <string name="file_download_service_notification_download_error">Сбой при загрузке файла</string>
+    <string name="file_download_service_notification_download_finished">Загрузка завершена</string>
+    <string name="file_download_service_notification_downloading_title">Загрузка содержимого…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Начинается загрузка…</string>
+    <string name="file_download_service_notification_temporary_message">Начинается загрузка…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Загрузка на внешнее запоминающее устройство</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Загрузка на внутреннее запоминающее устройство</string>
+    <string name="full_version_only">только полная версия</string>
+    <string name="main_activity_initializing_progress_dialog_description">Подождите</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">Не пропустите!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">Чтобы включить звук, перейдите в меню "Настройки"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" может говорить!</string>
+    <string name="settings_activity_checkbox_label">Текст</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">секунды
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Замораживает экраны минимум на 4 секунды
+</string>
+    <string name="settings_activity_checkbox_orientation">Инверсия экрана</string>
+    <string name="settings_activity_checkbox_speech">Речь</string>
+    <string name="settings_activity_combobox_items_amount"> Количество элементов
+</string>
+    <string name="settings_activity_combobox_language">Язык</string>
+    <string name="settings_activity_hide_items_checkbox">
+Убрать змей</string>
+    <string name="settings_activity_radiogroup_close_item_by">Закрыть предмет:</string>
+    <string name="settings_activity_settings_title">Настройки</string>
+    <string name="settings_activity_share_app"> Поделиться
+</string>
+</resources>

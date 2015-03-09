@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-nl-rNL/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>Aanraken</item>
+    <item>Pijl</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Downloaden van content is op dit moment niet beschikbaar. Opnieuw?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Probleem met downloaden content</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Downloaden herstarten</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Opnieuw</string>
+    <string name="downloader_activity_category_animals">Dieren</string>
+    <string name="downloader_activity_category_household">Huishouden</string>
+    <string name="downloader_activity_category_musical_instruments">Muziekinstrumenten</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Categorie %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Transport</string>
+    <string name="downloader_activity_category_wild_animals">Wilde dieren</string>
+    <string name="downloader_activity_category_wild_birds">Wilde vogels</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Verbindingsfout opgemerkt. Controleer uw internet-aansluiting of probeer het opnieuw</string>
+    <string name="downloader_activity_connection_error_dialog_title">Fout aansluiting</string>
+    <string name="downloader_activity_error_option_exit">Stoppen</string>
+    <string name="downloader_activity_error_option_retry">Opnieuw</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Er was een probleem bij het opslaan van de content van de toepassing. Ga na dat uw externe opslag niet actief is of druk
+  </string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Externe opslag niet beschikbaar</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Geen ruimte gevonden voor content app op zowel interne en externe opslag. Maak meer ruimte vrij en probeer het opnieuw</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Niet genoeg ruimte</string>
+    <string name="downloader_activity_please_wait_message">Een moment geduld, er worden afbeeldingen &amp; geluiden gedownload</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Onbekende fout opgetreden. Probeer het opnieuw</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Onbekende fout</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Om de toepassing te laten werken dient u een groot bestand te downloaden. WIFI-aansluiting wordt aanbevolen</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">Verbinding WIFI is ongedaan gemaakt</string>
+    <string name="file_download_service_notification_download_error">Fout bij downloaden bestand</string>
+    <string name="file_download_service_notification_download_finished">Downloaden voltooid</string>
+    <string name="file_download_service_notification_downloading_title">Bezig met downloaden content…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Bezig met starten download…</string>
+    <string name="file_download_service_notification_temporary_message">Bezig met starten download…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Bezig met downloaden externe opslag</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Bezig met downloaden interne opslag</string>
+    <string name="main_activity_initializing_progress_dialog_description">Een moment geduld</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">Om spraak in te schakelen gaat u naar het menu "Instellingen"</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" kan spreken!</string>
+    <string name="settings_activity_checkbox_speech">Spraak</string>
+    <string name="settings_activity_combobox_language">Taal</string>
+    <string name="settings_activity_radiogroup_close_item_by">Sluit artikel door:</string>
+    <string name="settings_activity_settings_title">Instellingen</string>
+</resources>

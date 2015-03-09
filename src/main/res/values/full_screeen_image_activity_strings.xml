@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item type="integer" name="full_screeen_image_activity_upper_sound_indicator_size">140</item>
+  <item type="integer" name="full_screeen_image_activity_upper_back_button_size">162</item>
+  <item type="integer" name="full_screeen_image_activity_with_promo_upper_buttons_size">135</item>
+
+</resources>

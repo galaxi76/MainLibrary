@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/videotouch_popup_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vtbugspopup_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="7.05" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1.8" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="6" >
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4"
+                    android:src="@drawable/vtbugspopup__text" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" >
+                </View>
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/videotouch_popup_exit_btn"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_gravity="right"
+                android:src="@drawable/x" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="3.2"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7" >
+            </View>
+
+            <FrameLayout
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" >
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="top"
+                    android:src="@drawable/vtbugspopup__newbadge" />
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="1.35"
+            android:orientation="horizontal" >
+
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="0.9" />
+
+            <ImageView
+                android:id="@+id/videotouch_popup_btn_link"
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1.2"
+                android:scaleType="fitCenter"
+                android:src="@drawable/link_to_store_btn" />
+
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="0.9" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="0.7" >
+        </View>
+    </LinearLayout>
+
+</LinearLayout>

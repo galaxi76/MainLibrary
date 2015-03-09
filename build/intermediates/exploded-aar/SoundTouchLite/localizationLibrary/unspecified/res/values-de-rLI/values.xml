@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-de-rLI/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>Antippen</item>
+    <item>Pfeil</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Herunterladen von Inhalten ist derzeitig nicht verfügbar. Wiederholen?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problem aufgrund des Herunterladens von Inhalten</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Download neu starten</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Wiederholen</string>
+    <string name="downloader_activity_category_animals">Tiere</string>
+    <string name="downloader_activity_category_household">Haushalt</string>
+    <string name="downloader_activity_category_musical_instruments">Musikinstrumente</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Kategorie %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Transport</string>
+    <string name="downloader_activity_category_wild_animals">Wildtiere</string>
+    <string name="downloader_activity_category_wild_birds">Wildvögel</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Verbindungsfehler wurde festgestellt. Bitte überprüfen Sie Ihre Internetverbindung oder versuchen Sie es noch mal</string>
+    <string name="downloader_activity_connection_error_dialog_title">Verbindungsfehler</string>
+    <string name="downloader_activity_error_option_exit">Beenden</string>
+    <string name="downloader_activity_error_option_retry">Wiederholen</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Beim Einspeichern des Anmeldeinhalts ist ein Problem unterlaufen. Bitte überprüfen Sie, dass Ihr externer Speicher nicht
+    montiert oder besetzt ist</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Externer Speicher nicht verfügbar</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Es wurde kein Speicherplatz für den Anwendungsinhalt gefunden, sowohl in den internen wie auch in den externen Speichern. Bitte
+    schaffen Sie mehr freien Speicherplatz und versuchen Sie es noch mal</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Nicht genügend Speicherplatz</string>
+    <string name="downloader_activity_please_wait_message">Bitte warten Sie bis die Bilder &amp; Sounds heruntergeladen sind</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Ein unbekannter Fehler ist aufgetreten. Bitte versuchen Sie es noch mal</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Unbekannter Fehler</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">Damit diese Anwendung ausgeführt werden kann, muss sie eine große Datei herunterladen. WIFI Verbindung wird empfohlen</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI wurde unterbrochen</string>
+    <string name="file_download_service_notification_download_error">Fehler beim Herunterladen der Datei</string>
+    <string name="file_download_service_notification_download_finished">Download beendet</string>
+    <string name="file_download_service_notification_downloading_title">Inhalt wird herunter geladen…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Download wird gestartet…</string>
+    <string name="file_download_service_notification_temporary_message">Download wird gestartet…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Herunterladen auf einen externen Speicher</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Herunterladen auf einen Internen Speicher</string>
+    <string name="main_activity_initializing_progress_dialog_description">Bitte warten</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">Um Sprache zu ermöglichen, gehen Sie auf das Einstellungsmenü</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" kann sprechen!</string>
+    <string name="settings_activity_checkbox_speech">Aussprache</string>
+    <string name="settings_activity_combobox_language">Sprache</string>
+    <string name="settings_activity_radiogroup_close_item_by">Schließen Sie das Objekt durch:</string>
+    <string name="settings_activity_settings_title">Einstellungen</string>
+</resources>

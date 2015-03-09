@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ++++++++++++ -->
+    <!-- BaseActivity -->
+    <!-- ++++++++++++ -->
+    <string name="soundtouch2_market_url">market://details?id=com.soundtouch2</string>
+    <string name="soundtouch2_browser_url">https://market.android.com/details?id=com.soundtouch2</string>
+    <string name="soundtouch2_market_url_amazon">http://www.amazon.com/gp/mas/dl/android?p=com.soundtouch2.standalone</string>
+    <string name="soundtouch2_browser_url_amazon">http://www.amazon.com/gp/mas/dl/android?p=com.soundtouch2.standalone</string>
+    <string name="main_activity_videotouch_promo_link">market://details?id=com.insectsvideotouch</string>
+    <string name="main_activity_videotouch_promo_link_browser">https://market.android.com/details?id=com.insectsvideotouch</string>
+    <string name="main_activity_videotouch_promo_link_amazon">http://www.amazon.com/gp/mas/dl/android?p=com.insectsvideotouch</string>
+    <string name="main_activity_videotouch_promo_link_browser_amazon">http://www.amazon.com/gp/mas/dl/android?p=com.insectsvideotouch</string>
+    <!-- error dialog when content file is not available : title,desc,options -->
+    <string name="base_activity_problem_with_content_file_dialog_title">Problem with downloading content</string>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Download of content is currently unavailable. Retry?</string>
+
+    <!-- error dialog options :retry,restart download -->
+    <string name="base_activity_problem_with_content_file_option_retry">Retry</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Restart download</string>
+
+    <!-- Exit dialog strings -->
+    <string name="main_activity_exit_dialog_title">Exit App</string>
+    <string name="main_activity_exit_dialog_desc">Are you sure you want to exit?</string>
+    <string name="main_activity_exit_dialog_positive_button">YES</string>
+    <string name="main_activity_exit_dialog_negative_button">NO</string>
+    <!-- ++++++++++++ -->
+    <!-- MainActivity -->
+    <!-- ++++++++++++ -->
+    <string name="promotion_dialog_request_url"></string>
+    <!-- initial dialog, which is shown only once , in order to tell the user about the new features -->
+    <string name="main_activity_whats_new_dialog_title">SoundTouch can speak!</string>
+    <string name="main_activity_whats_new_dialog_desc">To enable speech, go to the "settings" menu</string>
+    <string name="main_activity_whats_new_option_ok">OK</string>
+    <string name="main_activity_orientation_dialog_title">Screen Orientation</string>
+    <string name="main_activity_orientation_dialog_desc">You can now invert (reverse) the screen from the settings menu</string>
+    <string name="main_activity_initializing_progress_dialog_title">Initializing &#8230;</string>
+    <string name="main_activity_initializing_progress_dialog_description">Starting app for the first time. Please wait &#8230;</string>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">Don\'t miss out!!!</string>
+    <!-- Promotion dialog , shown to promote video touch apps -->
+    <string name="main_activity_promotion_dialog_item_0">Video Touch - Animals&#032;</string>
+    <string name="main_activity_promotion_dialog_item_0_1">is out!</string>
+    <string name="main_activity_promotion_dialog_item_1">Also available:</string>
+    <string name="main_activity_promotion_dialog_item_2">Video Touch - Wildlife</string>
+    <string name="main_activity_promotion_dialog_item_3">Video Touch - Birds </string>
+    <string name="main_activity_promotion_dialog_item_4">Video Touch - Vehicles</string>
+    <string name="main_activity_promotion_dialog_item_5">Video Touch - Music</string>
+    <string name="main_activity_promotion_dialog_item_6">- All 5 apps work together in integration -</string>
+
+    <!-- ++++++++++++++++ -->
+    <!-- SettingsActivity -->
+    <!-- ++++++++++++++++ -->
+    <!-- Feature not supported -->
+    <string name="settings_activity_not_supported">This feature is not supported on your system.</string>
+
+    <!-- Checkout VideoTouch button -->
+    <string name="settings_actvitiy_check_videotouch">Check out \"Video Touch\"</string>
+    <string name="settings_actvitiy_check_soundtouch">Check out \"Sound Touch 2\"</string>
+    <!-- Share Button -->
+    <string name="settings_activity_share_app"> Share this App</string>
+    <string name="settings_activity_exit_app"> Exit</string>
+    <string name="settings_activity_share_description"> Share via : </string>
+    <!-- lock screencheckbox -->
+    <string name="settings_activity_checkbox_lock_screen_title">Freeze screen</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">seconds</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">Lock screen for 4 seconds</string>
+
+    <!-- Amount of items -->
+    <!-- title of the combox -->
+    <string name="settings_activity_combobox_items_amount">Amount of items</string>
+
+    <!-- Hide items(Snake/Crocodile) checkbox -->
+    <string name="settings_activity_hide_items_checkbox">Hide snakes</string>
+    <!-- upper label of the settings activity -->
+
+    <string name="settings_activity_settings_title">Settings</string>
+
+    <!-- speech checkbox -->
+    <string name="settings_activity_checkbox_speech">Speech</string>
+
+    <!-- picture-label checkbox -->
+    <string name="settings_activity_checkbox_label">Text</string>
+
+    <!-- Auto Pilot checkbox -->
+    <string name="settings_activity_auto_pilot_list_label">Auto-Pilot</string>
+    <!-- Only full version popup -->
+    <string name="full_version_only">Full version only</string>
+
+    <!-- languages combobox -->
+    <!-- title of the combobox -->
+    <string name="settings_activity_combobox_language">Language</string>
+
+    <!-- close-item-by radiogroup -->
+    <!-- radiogroup title -->
+    <string name="settings_activity_radiogroup_close_item_by">Close item by:</string>
+    <!-- radiogroup items . caution:do not modify the order/number of the items -->
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>Touch</item>
+        <item>Arrow</item>
+    </string-array>
+    <string-array name="settings_activity_radiogroup_items_amount_list">
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="settings_activity_auto_pilot_list">
+        <item>All Categories</item>
+        <item>Animals, Wildlife, And Birds</item>
+        <item>Animals</item>
+        <item>Wildlife</item>
+        <item>Birds</item>
+        <item>Household</item>
+        <item>Musical Instruments</item>
+        <item>Vehicles</item>
+        <item>No Pilot</item>
+    </string-array>
+
+    <string name="settings_activity_checkbox_orientation">Invert screen</string>
+    <string name="settings_activity_speech_only">Speech/Text Only</string>
+    <string name="settings_activity_unavailable_picture_label_language_dialog_title">Sorry</string>
+    <string name="settings_activity_unavailable_picture_label_language_dialog_desc">%s text isn\'t available yet.\nIt\'s coming soon!</string>
+    <string name="settings_activity_lock_period_picker_dialog_title">Pick a duration</string>
+
+    <!-- ++++++++++++++++++ -->
+    <!-- DownloaderActivity -->
+    <!-- ++++++++++++++++++ -->
+
+
+    <!-- the message of the downloader activity -->
+    <string name="downloader_activity_please_wait_message">Please wait while downloading pictures &amp; sounds</string>
+
+    <!-- categories title , which changes its numbers over time -->
+    <string name="downloader_activity_category_number_title" formatted="false">Category %d/%d:</string>
+
+    <!-- categories names , which changes over time -->
+    <string name="downloader_activity_category_animals">Animals</string>
+    <string name="downloader_activity_category_wild_animals">Wild Animals</string>
+    <string name="downloader_activity_category_wild_birds">Wild Birds</string>
+    <string name="downloader_activity_category_vehicle">Vehicles</string>
+    <string name="downloader_activity_category_musical_instruments">Musical Instruments</string>
+    <string name="downloader_activity_category_household">Household</string>
+
+    <!-- initial dialog , when only 3g is enabled :title,desc,ok button -->
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI is disconnected</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">In order for this application to run, it needs to download a large file. WIFI connection is recommended </string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+
+    <!-- unknown error dialog :title,desc -->
+    <string name="downloader_activity_unknown_error_dialog_title">Unknown error</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">An unknown error occured. Please try again</string>
+
+    <!-- connection error dialog :title,desc -->
+    <string name="downloader_activity_connection_error_dialog_title">Connection error</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Connection error detected. Please check your internet connection or try again</string>
+
+    <!-- external storage unavailable error dialog :title,desc -->
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">External storage unavailable</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">There was a problem while storing the application\'s content.
+    Please verify that your external storage is not mounted or busy</string>
+
+    <!-- not enough space error dialog :title,desc -->
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Not enough space</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">No space found for app content on both internal and external storages.
+    Please free more space and try again</string>
+
+    <!-- error dialogs options :retry,exit -->
+    <string name="downloader_activity_error_option_retry">Retry</string>
+    <string name="downloader_activity_error_option_exit">Exit</string>
+
+    <!-- notifications -->
+    <!-- this is the message that appears for a very short time once the notification is created -->
+    <string name="file_download_service_notification_temporary_message">Starting download &#8230;</string>
+
+    <!-- this is the title of the notification on the beginning of the downloading progress. -->
+    <string name="file_download_service_notification_initializing_download_procedure">Starting download &#8230;</string>
+
+    <!-- this is the title of the notification which is shown during the download progress -->
+    <string name="file_download_service_notification_downloading_title">Downloading content&#8230;</string>
+
+    <!-- this is the title of the notification which is shown when the downloading progress is finished -->
+    <string name="file_download_service_notification_download_finished">Download finished</string>
+
+    <!-- this is the title of the notification when an error was found during the downloading progress -->
+    <string name="file_download_service_notification_download_error">Error while downloading file</string>
+    <string name="time_remaining">%1$s</string>
+    <string name="time_remaining_notification">%1$s</string>
+    <string name="title_activity_promotion_dialog">PromotionDialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- main page for the "normal" screen ,full version -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainActivity_mainContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_activity_gridview_background_color" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom|center_horizontal"
+        android:gravity="bottom" >
+
+        <GridView
+        android:id="@+id/mainActivity_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/mainActivity_toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/main_activity_gridview_bottom_and_top_margin"
+        android:layout_marginTop="@dimen/main_activity_gridview_bottom_and_top_margin"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0px"
+        android:listSelector="@null"
+        android:overScrollMode="never"
+        android:requiresFadingEdge="none"
+        android:layout_centerInParent="true"/>
+
+
+        <LinearLayout
+            android:id="@+id/mainActivity_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/main_activity_toolbar_height"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" >
+
+            <include layout="@layout/main_activity_toolbar" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

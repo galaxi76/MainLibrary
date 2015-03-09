@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- +++++++++++++++++ -->
+    <!-- settings_activity -->
+    <!-- +++++++++++++++++ -->
+
+
+    <!--
+    this allows us to enable/disable toggling of the picture label feature 
+    in the settings activity
+    -->
+    <item name="settings_activity_picture_label_enabled" type="bool">true</item>
+
+    <!--
+    values and entries that for the dialog of languages . for each of 
+    the items, the ':' seperates between the value and the entry of the list
+    -->
+    <string-array name="settings_activity_language_list_values_and_entries">
+
+        <!-- english -->
+        <item>en:English:English:Full version only</item>
+        <!-- english-britain -->
+        <item>en-gb:British English:British English:Full version only</item>
+        <!-- german(deutch) -->
+        <item>de:Deutsch:German:Nur bei Vollversion</item>
+        <!-- french -->
+        <item>fr:Français:French:Version intégrale uniquement</item>
+        <!-- french-canadian -->
+        <item>fr-ca:Français (Canadien):French (Canadian):Version intégrale
+      uniquement</item>
+        <!-- japanese -->
+        <item>ja:日本語:Japanease:フルバージョンでだけ使えます</item>
+        <!-- dutch (nederlands) -->
+        <item>nl:Nederlands:Dutch:Alleen de volledige versie</item>
+        <!-- norwegian (norsk) -->
+        <item>nb:Norsk (bokmål):Norwegian:Full versjon bare</item>
+        <!-- Swedish ‬ -->
+        <item>sv:Svenska:Swedish‬:Endast in den fulla versionen</item>
+        <!-- danish -->
+        <item>da:Dansk:Danish:Kun fuld udgave</item>
+        <!-- finnish -->
+        <item>fi:Suomi:Finnish:Ainoastaan täysversiossa</item>
+        <!-- russian -->
+        <item>ru:Pусский:Russian:только полная версия</item>
+        <!-- spanish (espanol) -->
+        <item>es:Español:Spanish:Solo en la versión completa</item>
+        <!-- spanish-spain (espanol) -->
+        <item>es-es:Español (España):Spanish (Spain):Solo en la versión
+      completa</item>
+        <!-- italian -->
+        <item>it:Italiano:Italian:Solo per la versione completa</item>
+        <!-- Portuguese -->
+        <item>pt:Português:Portuguese:Somente na versão completa</item>
+        <!-- Portuguese-portugal -->
+        <item>pt-pt:Português (Portugal):Portuguese (Portugal):Somente na
+      versão completa</item>
+        <!-- catalonian -->
+        <item>ca:Català:Catalan:Full version only</item>
+        <!-- korean -->
+        <item>ko:한국어:Korean:풀 버전에서만 가능‬</item>
+        <!-- chinese simplified -->
+        <item>zh-hans:简体中文:Chinese simplified:仅限完整版本使用</item>
+
+        <!-- chinese traditional -->
+        <item>zh-hant:繁體中文</item>
+
+        <!-- hungarian -->
+        <item>hu:Magyar</item>
+
+        <!-- greek -->
+        <item>el:ελληνικά</item>
+        <!-- Slovenian -->
+        <item>sl:Slovenščina:Slovenian: full version samo</item>
+        <!-- Tagalog -->
+        <item>tl:Tagalog :Filipino: buong bersyon lamang</item>
+        <!-- african -->
+        <item>af:Arikaans:Afrikaans:Full version only</item>
+        <!-- polish -->
+        <item>pl:Polski:Polish:Full version only</item>
+        <!-- croatian -->
+        <item>hr:Hrvatski:Croatian:Full version only</item>
+        <!-- arabic -->
+        <item>ar:العربية‬:Arabic:Full version only</item>
+        <!-- turkish -->
+        <item>tr:Türkçe:Turkish:Full version only</item>
+        <!-- persian -->
+        <item>fa:فارسی:Persian:Full version only</item>
+        <!-- hebrew -->
+        <item>he:עברית‬:Hebrew:בגירסה המלאה בלבד</item>
+        
+        <item>hi:हिन्दी:Hindi:Full version only</item>
+    </string-array>
+
+    <!--
+    values that match the strings of the close-item-by . caution: it must 
+    match the array of strings .be cautious when changing those values
+    -->
+    <string name="settings_activity_close_item_by_list_touch_value">touch</string>
+    <string name="settings_activity_close_item_by_list_arrow_value">arrow</string>
+
+    <string-array name="settings_activity_close_item_by_list_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="settings_activity_items_amount_list_values">
+        <item>4</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="settings_activity_auto_pilot_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="settings_activity_lockscreen_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <!-- preferences default values -->
+    <string name="settings_activity_close_item_by_default_value">0</string>
+    <string name="settings_activity_language_list_default_value">en</string>
+    <string name="settings_activity_auto_pilot_list_default_value">8</string>
+    <string name="settings_activity_items_amount_list_default_value">12</string>
+    <string name="settings_activity_lock_screen_list_default_value">0</string>
+
+    <item name="settings_activity_hide_items_default_value" type="bool">false</item>
+    <item name="settings_activity_speech_checkbox_default_value" type="bool">false</item>
+    <item name="settings_activity_label_checkbox_default_value" type="bool">false</item>
+    <item name="settings_activity_auto_pilot_checkbox_default_value" type="bool">false</item>
+    <item name="settings_activity_orientation_checkbox_default_value" type="bool">false</item>
+    <item name="settings_activity_speech_only_checkbox_default_value" type="bool">false</item>
+    <!--
+    preferences keys note:do not touch those,they must be unique and the 
+    same across versions
+    -->
+    <string name="settings_activity_speech_checkbox_pref">settings_activity_speech_checkbox_pref</string>
+    <string name="settings_activity_label_checkbox_pref">settings_activity_label_checkbox_pref</string>
+    <string name="settings_activity_auto_pilot_list_pref">settings_activity_auto_pilot_list_pref</string>
+    <string name="settings_activity_lock_screen_checkbox_pref">settings_activity_lock_screen_list_pref</string>
+    <string name="settings_activity_share_button_pref">settings_activity_share_pref</string>
+    <string name="settings_activity_exit_button_pref">settings_activity_exit_pref</string>
+    <string name="settings_activity_check_button_pref">settings_activity_checkout_pref</string>
+    <string name="settings_activity_check_soundtouch_button_pref">settings_activity_checkout_soundtouch_pref</string>
+    <string name="settings_activity_fullversion_button_pref">settings_activity_fullversion_pref</string>
+    <string name="settings_activity_oreintation_checkbox_pref">settings_activity_screen_orientation_checkbox_pref</string>
+    <string name="settings_activity_speech_only_checkbox_pref">settings_activity_speech_only_checkbox_pref</string>
+    <string name="settings_activity_language_list_pref">settings_activity_language_list_pref</string>
+    <string name="settings_activity_items_amount_list_pref">settings_activity_items_amount_list_pref</string>
+    <string name="settings_activity_hide_items_checkbox_pref">settings_activity_hide_items_checkbox_pref</string>
+    <string name="settings_activity_close_item_by_pref">settings_activity_close_item_by_pref</string> <!-- URLS -->
+    <string name="settings_activity_share_button_url">https://play.google.com/store/apps/details?id=com.soundtouch.lite</string>
+    
+    <string name="main_activity_promotion_dialog_item_url_0">https://play.google.com/store/apps/details?id=com.animalsvideotouch</string>
+    <string name="main_activity_promotion_dialog_item_url_2">https://play.google.com/store/apps/details?id=com.wildanimalsvideotouch</string>
+    <string name="main_activity_promotion_dialog_item_url_3">https://play.google.com/store/apps/details?id=com.birdsvideotouch</string>
+    <string name="main_activity_promotion_dialog_item_url_4">https://play.google.com/store/apps/details?id=com.vehiclesvideotouch</string>
+    <string name="main_activity_promotion_dialog_item_url_5">https://play.google.com/store/apps/details?id=com.musicvideotouch</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.soundtouch.main_library.TextViewOneLine
+        android:id="@+id/promotion_text_row_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+		android:paddingLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="also available:"
+        android:textColor="#91C8FF" />
+
+</FrameLayout>

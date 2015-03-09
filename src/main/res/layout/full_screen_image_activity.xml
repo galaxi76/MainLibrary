@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fullScreenImageActivity_rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <!-- sound indicator -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:baselineAligned="false"
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:weightSum="640" >
+
+            <ImageView
+                android:id="@+id/fullScreenImageActivity_noSoundIndicator"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="@integer/full_screeen_image_activity_upper_sound_indicator_size"
+                android:adjustViewBounds="true"
+                android:paddingRight="3dp"
+                android:paddingTop="3dp"
+                android:src="@drawable/full_screen_image_activity_no_sound_indicator" />
+        </LinearLayout>
+
+        <!-- back button -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:weightSum="640" >
+
+            <ImageView
+                android:id="@+id/fullScreenImageActivity_backButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|left"
+                android:layout_weight="@integer/full_screeen_image_activity_upper_back_button_size"
+                android:adjustViewBounds="true"
+                android:paddingLeft="3dp"
+                android:paddingTop="3dp"
+                android:src="@drawable/full_screen_image_activity_back_button"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <!-- +++++++++++++ -->
+        <!-- picture-label -->
+        <!-- +++++++++++++ -->
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            layout="@layout/full_screen_image_activity_picture_label" />
+
+</FrameLayout>

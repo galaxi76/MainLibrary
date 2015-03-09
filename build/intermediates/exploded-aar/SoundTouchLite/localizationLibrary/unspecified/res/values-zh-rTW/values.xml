@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+        <item>触摸</item>
+        <item>箭头</item>
+    </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">现在不可下载内容。重试？</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">下载内容时，遇到问题</string>
+    <string name="base_activity_problem_with_content_file_option_restart">重启下载</string>
+    <string name="base_activity_problem_with_content_file_option_retry">重试</string>
+    <string name="buy_full_version_button_text">無廣告完整版
+</string>
+    <string name="check_out_full_version">查看完整版
+</string>
+    <string name="downloader_activity_category_animals">动物</string>
+    <string name="downloader_activity_category_household">居家</string>
+    <string name="downloader_activity_category_musical_instruments">乐器</string>
+    <string formatted="false" name="downloader_activity_category_number_title">分类 %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">运输</string>
+    <string name="downloader_activity_category_wild_animals">野生动物</string>
+    <string name="downloader_activity_category_wild_birds">野生鸟类</string>
+    <string name="downloader_activity_connection_error_dialog_desc">检测到连接错误。 请检查您的因特网连接或者重试</string>
+    <string name="downloader_activity_connection_error_dialog_title">连接错误</string>
+    <string name="downloader_activity_error_option_exit">退出</string>
+    <string name="downloader_activity_error_option_retry">重试</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">存储应用程序内容时，出现问题。 请确认您的存储设备是否安装成功或是否繁忙</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">无法获取外部存储</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">内部存储和外部存储上的空间均不足以放置应用程序内容。 请释放更多空间并重试</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">空间不足</string>
+    <string name="downloader_activity_please_wait_message">图片和声音下载中，请稍候</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">发生未知错误。 请重试</string>
+    <string name="downloader_activity_unknown_error_dialog_title">未知错误</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">若要运行此应用程序，需要下载一个大型文件。建议使用 WIFI 连接</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">好</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI 已断开</string>
+    <string name="file_download_service_notification_download_error">下载文件时发生错误</string>
+    <string name="file_download_service_notification_download_finished">下载结束</string>
+    <string name="file_download_service_notification_downloading_title">正在下载内容…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">开始下载…</string>
+    <string name="file_download_service_notification_temporary_message">开始下载…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">下载至外部存储</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">下载至内部存储</string>
+    <string name="main_activity_initializing_progress_dialog_description">请稍</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_soundtouch2_popup_dont_miss_out">千萬不要錯過!!!
+</string>
+    <string name="main_activity_whats_new_dialog_desc">若启动声音，进入"设置"菜单 </string>
+    <string name="main_activity_whats_new_dialog_title">"SoundTouch"可以说话了！</string>
+    <string name="settings_activity_checkbox_lock_screen_summary">秒鐘
+</string>
+    <string name="settings_activity_checkbox_lock_screen_summary2">對圖像進行最少4秒鐘的鎖定
+</string>
+    <string name="settings_activity_checkbox_orientation">反轉屏幕</string>
+    <string name="settings_activity_checkbox_speech">语音</string>
+    <string name="settings_activity_combobox_items_amount"> 項目數量
+</string>
+    <string name="settings_activity_combobox_language">语言</string>
+    <string name="settings_activity_hide_items_checkbox">隱藏毒蛇</string>
+    <string name="settings_activity_radiogroup_close_item_by">关闭项目通过:</string>
+    <string name="settings_activity_settings_title">设置</string>
+    <string name="settings_activity_share_app"> 分享
+</string>
+</resources>

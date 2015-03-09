@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filesToDownload>
+
+  <category name="@string/downloader_activity_category_animals" associatedIconImage="logo_animals" />
+
+  <category name="@string/downloader_activity_category_wild_animals" associatedIconImage="logo_wildanimals" />
+
+  <category name="@string/downloader_activity_category_wild_birds" associatedIconImage="logo_wildbirds" />
+
+  <category name="@string/downloader_activity_category_vehicle" associatedIconImage="logo_vehicles" />
+
+  <category name="@string/downloader_activity_category_musical_instruments" associatedIconImage="logo_musicalinstruments" />
+
+  <category name="@string/downloader_activity_category_household" associatedIconImage="logo_household" />
+
+</filesToDownload>
+

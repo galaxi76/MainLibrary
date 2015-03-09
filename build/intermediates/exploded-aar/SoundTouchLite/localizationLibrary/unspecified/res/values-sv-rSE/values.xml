@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Leora/AndroidstudioProjects/SoundTouchLite/localizationLibrary/src/main/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string-array name="settings_activity_radiogroup_close_item_by_list">
+    <item>Peka</item>
+    <item>Pil</item>
+  </string-array>
+    <string name="base_activity_problem_with_content_file_dialog_desc">Nerladdningen av innehållet är inte tillgängligt för tillfället. Nytt försök?</string>
+    <string name="base_activity_problem_with_content_file_dialog_title">Problem med att nerladda innehållet</string>
+    <string name="base_activity_problem_with_content_file_option_restart">Starta igen nerladdningen</string>
+    <string name="base_activity_problem_with_content_file_option_retry">Nytt försök</string>
+    <string name="downloader_activity_category_animals">Djur</string>
+    <string name="downloader_activity_category_household">Hushållsföremål</string>
+    <string name="downloader_activity_category_musical_instruments">Musikinstrument</string>
+    <string formatted="false" name="downloader_activity_category_number_title">Kategori %d/%d:</string>
+    <string name="downloader_activity_category_vehicle">Transportmedel</string>
+    <string name="downloader_activity_category_wild_animals">Vilda Djur</string>
+    <string name="downloader_activity_category_wild_birds">Vilda Fåglar</string>
+    <string name="downloader_activity_connection_error_dialog_desc">Anslutningsfel upptäckts. Kontrollera er Internet anslutning eller försök igen</string>
+    <string name="downloader_activity_connection_error_dialog_title">Anslutningsfel</string>
+    <string name="downloader_activity_error_option_exit">Avslutning</string>
+    <string name="downloader_activity_error_option_retry">Nytt fösök</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_desc">Ett problem uppstod när innehållet av applikationen lagradets. Kontrollera att ert yttre minne inte är installerat eller
+    upptaget</string>
+    <string name="downloader_activity_external_storage_unavailable_error_dialog_title">Det yttre minnet är otillgängligt</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_desc">Tillräckligt utrymme hittades inte för innehållet av applikationen varken på det inre eller yttre datorminnet. Fria mera utrymme
+    och försök igen</string>
+    <string name="downloader_activity_not_enough_space_error_dialog_title">Inte tillräckligt utrymme</string>
+    <string name="downloader_activity_please_wait_message">Vänligen vänta medan foton &amp; ljus laddas ner</string>
+    <string name="downloader_activity_unknown_error_dialog_desc">Ett okänt fel uppstod. Försök igen</string>
+    <string name="downloader_activity_unknown_error_dialog_title">Okänt fel</string>
+    <string name="downloader_activity_wifi_check_dialog_desc">För att köra detta program, behövs nerladdning av en stor datafil. Anslutning till WIFI är rekommenderad</string>
+    <string name="downloader_activity_wifi_check_dialog_ok">Ok</string>
+    <string name="downloader_activity_wifi_check_dialog_title">WIFI är bortkopplad</string>
+    <string name="file_download_service_notification_download_error">Ett fel uppstod vid nerladdningen av datafilen</string>
+    <string name="file_download_service_notification_download_finished">Nerladdningen avslutad</string>
+    <string name="file_download_service_notification_downloading_title">Nerladdar innehållet…</string>
+    <string name="file_download_service_notification_initializing_download_procedure">Börjar nerladdning av innehållet…</string>
+    <string name="file_download_service_notification_temporary_message">Börjar nerladdning av innehållet…</string>
+    <string name="file_download_service_toast_downloading_to_external_storage">Nerladdning till det yttre minnet</string>
+    <string name="file_download_service_toast_downloading_to_internal_storage">Nerladdning till det inre minnet</string>
+    <string name="main_activity_initializing_progress_dialog_description">Vänligen vänta</string>
+    <string name="main_activity_initializing_progress_dialog_title"/>
+    <string name="main_activity_whats_new_dialog_desc">För att möjliggöra tal, gå till "Inställning" menyet</string>
+    <string name="main_activity_whats_new_dialog_title">"Sound Touch" kan prata!</string>
+    <string name="settings_activity_checkbox_speech">Tal</string>
+    <string name="settings_activity_combobox_language">Språk</string>
+    <string name="settings_activity_radiogroup_close_item_by">Stäng objektet genom att:</string>
+    <string name="settings_activity_settings_title">Inställning</string>
+</resources>
